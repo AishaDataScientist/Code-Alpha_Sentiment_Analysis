@@ -1,4 +1,4 @@
-# Product Review Sentiment Analysis
+# Code-Alpha_Sentiment_Analysis
 
 A comprehensive **Sentiment Analysis project** developed using **Python**, **Pandas**, **Matplotlib**, **Seaborn**, and **VADER Sentiment Analysis**. This project analyzes product reviews, determines customer sentiment, visualizes sentiment patterns, and exports the results for further analysis.
 
